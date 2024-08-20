@@ -5,7 +5,7 @@ html {
 table {
   table-layout: fixed;
   border-collapse: collapse;
-  border: 1px groove black;
+  
   width: 90vw;
   height: 90vh;
   border-radius: ;
