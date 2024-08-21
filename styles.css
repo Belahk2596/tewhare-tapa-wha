@@ -1,19 +1,22 @@
 html {
-  background-color: ;
+  background-image: url(niueimage.jpg) ;
   font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  font-size: 1.25rem;
+  background-size: cover;
+
 }
 table {
   table-layout: fixed;
   border-collapse: collapse;
-  
   width: 90vw;
   height: 90vh;
-  border-radius: ;
+  padding-top: 30px;
 }
 tr,
 td,
 th {
-  border: 1px solid black;
+  border: 1px solid #000000;
 }
 .table-container {
   display: flex;
@@ -33,4 +36,11 @@ tr:nth-child(even) {
   letter-spacing: 10px;
   padding-bottom: 50px;
   padding-right: 20px;
+}
+
+.op {
+  text-align: center;
+  width: 90vw;
+  display: inline;
+  line-height: 35px;
 }
