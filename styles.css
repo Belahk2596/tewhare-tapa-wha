@@ -38,9 +38,27 @@ tr:nth-child(even) {
   padding-right: 20px;
 }
 
+.second-heading {
+  margin-top: 75px;
+}
+
 .op {
   text-align: center;
   width: 90vw;
   display: inline;
   line-height: 35px;
 }
+.section-2 {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+ section {
+  display: flex;
+  justify-content: center;
+ }
+ 
+ .info {
+  line-height: 35px;
+ }
